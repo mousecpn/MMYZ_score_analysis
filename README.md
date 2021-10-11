@@ -34,7 +34,7 @@
 
 然后就是训练了，用的是keras来搭的神经网络。大概结构是这样的。
 
-![network](C:\Users\Dell\Desktop\score\network.jpg)
+![network](network.jpg)
 
 然后剩下的就是训练，用的是batch_gradient，损失函数用的是交叉熵，数据量没有很大就不用SGD了。
 
